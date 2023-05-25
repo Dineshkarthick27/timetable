@@ -118,7 +118,7 @@ Execute the program
 </body>
 </html>
 ```
-# OUPUT
+# OUTPUT
 ## SERVER OUTPUT
 ![image](https://user-images.githubusercontent.com/120552008/232966554-d19532b4-f3af-4f42-9755-3e1bb57e775a.png)
 
